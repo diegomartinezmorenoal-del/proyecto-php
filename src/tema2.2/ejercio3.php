@@ -24,7 +24,7 @@
                 "Moon" => "Luna",
                 "Dog" => "Perro",
                 "Cat" => "Gato",
-                "Tree" => "Árbol"
+                "Ball" => "Balon"
             ];
 
             foreach ($diccionario as $ingles => $español) {
