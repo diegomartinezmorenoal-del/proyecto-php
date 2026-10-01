@@ -17,7 +17,7 @@ if ($conexion->connect_error) {
 
 echo "<h1>Conexión realizada correctamente</h1>";
 ?>
-<h1>Índice de Ejercicios - Tema 2.2</h1>
+<h1>Ejercicios - Tema 2.2</h1>
     
     <ul>
         <li><a href="tema2.2/ejercicio1.php">Ejercicio 1</a></li>
